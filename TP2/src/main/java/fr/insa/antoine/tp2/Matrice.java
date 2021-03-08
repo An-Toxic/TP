@@ -276,6 +276,7 @@ public class Matrice {
             throw new Error("erreur de ligne");
         }
     }
+    //changeeeee
     
     }
     
